@@ -1,0 +1,24 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Caneta BIC Preta",
+      "price": 5.89
+    },
+    {
+      "id": 2,
+      "name": "PC Gamer",
+      "price": 10000
+    },
+    {
+      "id": 3,
+      "name": "Energetico",
+      "price": 8.5
+    },
+    {
+      "name": "iPhone 11 Pro Max",
+      "price": "3600.00",
+      "id": 4
+    }
+  ]
+}
